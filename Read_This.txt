@@ -1,0 +1,2 @@
+I use mailtrap service just for sending to mail to user.
+please set your mail credential in the .env file.
